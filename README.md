@@ -1,4 +1,4 @@
-Jogo matemático Solving Fast
+<bold>Jogo matemático Solving Fast<bold><br>
 Tecnologias usadas.<br>
 Esse projeto foi desenvolvido com as seguintes tecnologias:<br>
 
